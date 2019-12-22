@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Athanasios Polimeridis
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: VP, Scientific Computing
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Q Bio
+  url: "https://q.bio"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
