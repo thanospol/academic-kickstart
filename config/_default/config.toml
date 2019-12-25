@@ -9,7 +9,7 @@ title = "Thanos Polimeridis"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://github.com/thanospol/thanospol.github.io"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
@@ -24,6 +24,9 @@ theme = "academic"
 
 # Get last modified date for content from Git?
 enableGitInfo = false
+
+# Enable LaTeX math
+math = true
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"

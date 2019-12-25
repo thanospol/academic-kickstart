@@ -18,25 +18,23 @@ organizations:
   url: "https://q.bio"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include computational methods for problems in physics and engineering.
 
 interests:
 - Computational Electromagnetics
 - Magnetic Resonance Imaging
 - Quantum and Thermal Electrodynamics
+- Scientific Computing
 - Inverse Problems
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Computational Physics
+    institution: Aristotle University, Greece
     year: 2008
+  - course: Diploma in Electrical and Computer Engineering
+    institution: Aristotle University, Greece
+    year: 2003
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -52,6 +50,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/thanospol
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/athanasios-polimeridis-99794b52/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
