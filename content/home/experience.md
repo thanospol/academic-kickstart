@@ -25,11 +25,7 @@ date_format = "Jan 2006"
   date_start = "2016-09-01"
   date_end = ""
   description = """
-Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Building technology that quantifies, digitizes, and simulates human physiology. Head of Radiomics R&D team, responsible for deveponing algorithms and methods to improve Medical Imaging.
   """
 
 [[experience]]

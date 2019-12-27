@@ -67,12 +67,24 @@ math = true
  css_class = ""
 +++
 
-
-+ **Tensor Field Mapping**  
-  - US Patent US10222441B2, Filed Apr 2016, Patent Granted  
++ **Tensor field mapping** 
+  - [US Patent US10222441B2](https://patents.google.com/patent/US10222441B2/en?inventor=polymeridis&oq=polymeridis) , Filed Apr 2016, Patent Granted  
 &nbsp;
 + **Rapid determination of a relaxation time**
-  - US Patent US10359486B2, Filed Apr 2016, Patent Granted  
+  - [US Patent US10359486B2](https://patents.google.com/patent/US10359486B2/en?inventor=polymeridis&oq=polymeridis), Filed Apr 2016, Patent Granted  
 &nbsp;
 + **Noninvasive determination of electrical properties of tissues and materials using magnetic resonance measurements**
-  - US Patent US20170303813A1, Filed Apr 2016, Patent Pending
+  - [US Patent US20170303813A1](https://patents.google.com/patent/US20170303813A1/en?inventor=polymeridis&oq=polymeridis), Filed Apr 2016, Patent Pending  
+
+<!--- 
+# &nbsp;
+# + **Model parameter determination using a predictive model**  
+#   - US Patent, Filed Jan 2019, Patent Pending  
+# &nbsp;  
+# + **Tensor field mapping with magnetostatic constraint**  
+#   - US Patent, Filed Jun 2019, Patent Pending  
+# &nbsp;
+# + **Maxwell parallel imaging**  
+#   - US Patent, Filed Sep 2019, Patent Pending  
+-->
+

@@ -23,9 +23,10 @@ bio: My research interests include computational methods for problems in physics
 interests:
 - Computational Electromagnetics
 - Magnetic Resonance Imaging
-- Quantum and Thermal Electrodynamics
+- Fluctuation Electrodynamics
 - Scientific Computing
-- Inverse Problems
+- Large-Scale Optimization 
+
 
 education:
   courses:
@@ -69,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Athanasios Polimeridis was a Post-Doctoral Research Associate with the Laboratory of Electromagnetics and Acoustics, École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland. From 2012 to 2015, he was a Post- Doctoral Research Associate with the Massachusetts Institute of Technology, Cambridge, MA, USA, where he was a member of the Computational Prototyping Group, Research Laboratory of Electronics. From 2015 to 2018, he was an Assistant Professor with the Skolkovo Institute of Science and Technology, Moscow, Russia. He is currently the VP of scientific computing with Q Bio, Inc., Redwood City, CA, USA.
+I am the VP of Scientific Computing and Head of the Radiomics R&D team with Q Bio, responsible for building technology that quantifies, digitizes, and simulates human physiology. From 2015 to 2018, I was an Assistant Professor with the Skolkovo Institute of Science and Technology. I also held Postdoctoral Research Associate positions with the Laboratory of Electromagnetics and Acoustics at EPFL and the Computational Prototyping Group at MIT.
 
-His current research interests include computational methods for problems in physics and engineering (clas- sical electromagnetics, quantum and thermal electromagnetic interactions, and magnetic resonance imaging) with an emphasis on the development and implementation of integral-equation-based algorithms.
+[Download CV](files/cv.pdf)
